@@ -1,0 +1,10 @@
+{
+    "name": "anonymous/laravel-device-switcher",
+    "authors": [
+        {
+            "name": "André Freitas",
+            "email": "andre.eng.90@gmail.com"
+        }
+    ],
+    "require": {}
+}
