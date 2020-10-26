@@ -1,4 +1,4 @@
-# Laravel Switcher
+# Laravel Device Switcher
 
 Neste pequeno projeto, o único objetivo é demonstrar a capacidade do laravel trabalhar em múltiplas plataformas através de projetos separados, por meio da manipulação de rotas no arquivo routes/web.php.
 
